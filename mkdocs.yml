@@ -1,4 +1,8 @@
 site_name: AOSP Build Include Graph
+site_url: https://ilaveniranjith.github.io/
+site_author: Ilaveni Ranjith (ranjith.ilaveni@gmail.com)
+site_description: Basic notes of AOSP
+
 theme:
   icon:
     logo: fontawesome/solid/diagram-project
@@ -81,3 +85,9 @@ markdown_extensions:
 
 copyright: |
   &copy: 2023 <a href="https://github.com/IlaveniRanjith"  target="_blank" rel="noopener">Ilaveni Ranjith</a>
+
+# copyright: > # should remain a link to the original theme
+# &copy; 2021 Code Inside Out<br>
+# <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog
+# Theme</a> /
+# <a href="
